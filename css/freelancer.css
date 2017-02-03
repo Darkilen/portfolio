@@ -503,6 +503,7 @@ fieldset[disabled] .btn-success.active {
   opacity: 0;
   display: none;
 }
-.img-custom{
-  max-height: 250px;
+#centrale{
+  color: white;
+  text-decoration: underline;
 }
